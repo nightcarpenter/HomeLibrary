@@ -15,4 +15,4 @@
 
 #### Пример работы приложения:
 
-[Пример работы приложения](https://github.com/nightcarpenter/HomeLibrary/blob/main/logo.jpg)
+[Пример работы приложения](logo.jpg)
