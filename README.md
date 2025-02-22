@@ -5,7 +5,7 @@
 
 #### [Полное описание проекта](https://github.com/nightcarpenter/HomeLibrary/blob/main/HomeLibrary.pdf)
 
-#### [Исходный код проекта](https://github.com/nightcarpenter/tree/main/HomeLibrary)
+#### [Исходный код проекта](https://github.com/nightcarpenter/HomeLibrary/tree/main/HomeLibrary)
 
 #### [Вернуться к портфолио](https://github.com/nightcarpenter)
 
