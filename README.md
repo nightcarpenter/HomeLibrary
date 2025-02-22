@@ -5,6 +5,8 @@
 
 #### [Полное описание проекта](https://github.com/nightcarpenter/HomeLibrary/blob/main/HomeLibrary.pdf)
 
+#### [Вернуться к портфолио](https://github.com/nightcarpenter)
+
 ---
 
 #### Было разработано приложение, которое предоставляет следующие возможности:
